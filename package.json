@@ -3,6 +3,7 @@
   "version": "4.3.3",
   "type": "module",
   "description": "Copy stuff into clipboard using JS with fallbacks",
+  "type": "module",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
